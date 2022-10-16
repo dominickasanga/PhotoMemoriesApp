@@ -1,0 +1,7 @@
+{
+  "name": "PhotoMemoryApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
