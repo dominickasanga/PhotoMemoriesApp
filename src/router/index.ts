@@ -6,7 +6,7 @@ import MemoriesPage from '../pages/MemoriesPage.vue';
 const routes: Array<RouteRecordRaw> = [
   {
     path: '/',
-    redirect: '/home'
+    redirect: '/memories'
   },
   {
     path: '/home',
